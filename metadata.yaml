@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32043'
     url: http://www.gutenberg.org/2009/agents/32043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26490#Lord-Milner-s-Work-in-South-AfricaFrom-its-Commencement-in-1897-to-the-Peace-of-Vereeniging-i_
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2008-08-30'
 gutenberg_type: Text
